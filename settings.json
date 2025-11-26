@@ -1,0 +1,42 @@
+{
+    "chat.editor.fontSize": 11,
+    "chat.tools.global.autoApprove": true,
+    "chat.editor.fontFamily": "CaskaydiaCove Nerd Font",
+    "editor.fontFamily": "CaskaydiaCove Nerd Font",
+    "editor.fontSize": 11,
+    "editor.lineHeight": 2,
+    "editor.fontWeight": "400",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorWidth": 3,
+    "editor.cursorSurroundingLines": 1,
+    "editor.fontLigatures": true,
+    "workbench.activityBar.location": "top",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.enabled": false,
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontSize": 11,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "chat.agent.maxRequests": 999,
+    "python.defaultInterpreterPath": "C:\\Users\\dcduc\\Documents\\Tools\\python-venv-tools",
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/dcduc/Documents/config/vscode/custom.css"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Evondev Dracula Author",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
