@@ -1,6 +1,6 @@
 # Mah Visual Studio Code settings and customizations
 
-<img width="1024" height="565" alt="image" src="https://github.com/user-attachments/assets/a9cab4f2-f922-449f-8049-8ce1a61cdbef" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5dcbe33-71b5-448c-a544-b6de7d317404" />
 
 - 🎨 **Themes**
   - 🖌️ **Color theme:** [Evondev Dracula](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
